@@ -1,0 +1,249 @@
+.hiIm {
+  margin: 0;
+}
+.hiImInnocenteContainer {
+  margin-right: -228px;
+  margin: 0;
+  width: 846px;
+  height: 282px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #e9efef,
+    #e680e8 31.77%,
+    #a3c4f1 68.75%,
+    #e480eb
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 137%;
+}
+.hiImInnocenteWrapper {
+  width: 618px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.beveledCone1Icon {
+  height: 126px;
+  width: 112px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.titleBackground {
+  width: 674px;
+  height: 12px;
+  position: relative;
+  border-radius: 20px;
+  background-color: rgba(73, 70, 61, 0.18);
+  max-width: 100%;
+}
+.frameGroup {
+  width: 846px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-101xl);
+  font-family: var(--font-roboto);
+}
+.span {
+  font-size: var(--font-size-101xl);
+}
+.fullStackDeveloper {
+  margin: 0;
+  font-size: 110px;
+}
+.aspiringFullStackContainer {
+  align-self: stretch;
+  height: 268px;
+  position: relative;
+  display: inline-block;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #e9efef,
+    #e680e8 31.77%,
+    #a3c4f1 68.75%,
+    #e480eb
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.withAPassion {
+  width: 1130px;
+  position: relative;
+  font-size: 25px;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.aspiringFullStackDeveloperParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 80px;
+  color: #d6d7db;
+  font-family: var(--font-roboto);
+}
+.roundTriangleChain4Icon {
+  width: 255.1px;
+  height: 260px;
+  position: absolute;
+  margin: 0 !important;
+  top: -50px;
+  right: 176px;
+  object-fit: contain;
+  z-index: 1;
+}
+.frameParent {
+  width: 1286px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 98px 0px 0px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.beveledCone2Icon {
+  width: 122.5px;
+  height: 115px;
+  position: absolute;
+  margin: 0 !important;
+  top: -6.7px;
+  left: 0px;
+  object-fit: contain;
+}
+.roundTriangleChain2Icon {
+  width: 137px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.beveledCone2Parent {
+  height: 319px;
+  width: 196.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 196px 0px 0px;
+  box-sizing: border-box;
+  position: relative;
+}
+.usageInstructionsIcon {
+  position: absolute;
+  top: 109px;
+  left: 165.1px;
+  width: 658px;
+  height: 658px;
+  object-fit: cover;
+}
+.github11Icon {
+  position: absolute;
+  top: 637px;
+  left: 147.1px;
+  width: 284px;
+  height: 301px;
+  object-fit: cover;
+  z-index: 1;
+}
+.beveledCone3Icon {
+  position: absolute;
+  top: 510.2px;
+  left: 796px;
+  width: 94.2px;
+  height: 94.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.roundTriangleChain1Icon {
+  position: absolute;
+  top: 716px;
+  left: 515.1px;
+  width: 134px;
+  height: 144px;
+  object-fit: cover;
+  z-index: 1;
+}
+.blackPrettyAndBeautifulSofIcon {
+  position: absolute;
+  top: -7px;
+  left: 147.1px;
+  width: 768px;
+  height: 768px;
+  object-fit: cover;
+  z-index: 2;
+}
+.usageInstructionsParent {
+  height: 100%;
+  width: 899.1px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.makeYourReadme {
+  width: 100%;
+  position: relative;
+  background-color: #0d1116;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px 29px 212px 80px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+  gap: var(--gap-xl);
+}
+
+@media screen and (max-width: 1600px) {
+  .makeYourReadme {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .makeYourReadme {
+    padding-left: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frameParent {
+    padding-top: 64px;
+    box-sizing: border-box;
+  }
+}
